@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/vcs.xml
+/.idea/**/workspace.xml
+*.jks
+*.keystore
+.env
