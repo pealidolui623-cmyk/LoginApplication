@@ -25,8 +25,7 @@ This is an AI Chatbot Android application developed using Android Studio and Kot
 4. Run the application on an Android device or emulator.
 
 ## Screenshots
-
-chatbot.jpeg
+screenshots/chatbot.jpeg
 
 ## Developer
 
