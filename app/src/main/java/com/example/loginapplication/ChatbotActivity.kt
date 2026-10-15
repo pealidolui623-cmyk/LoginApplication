@@ -114,7 +114,7 @@ class ChatbotActivity : AppCompatActivity() {
 
         val url = "https://api.groq.com/openai/v1/chat/completions"
 
-        val GROQ_API_KEY = "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"
+        val GROQ_API_KEY = "YOUR_GROQ_API_KEY"
 
         val jsonBody = JSONObject().apply {
             put("model", "openai/gpt-oss-120b")
