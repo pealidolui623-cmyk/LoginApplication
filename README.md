@@ -26,7 +26,7 @@ This is an AI Chatbot Android application developed using Android Studio and Kot
 
 ## Screenshots
 
-C:\\Users\\peali\\AndroidStudioProjects\\LoginApplication
+chatbot.jpeg
 
 ## Developer
 
